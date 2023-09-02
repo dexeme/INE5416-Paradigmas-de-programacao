@@ -1,7 +1,7 @@
 -- Aluno: Tiago Siqueira
 -- Matricula: 22102193
 
--- Crie uma função que receba dois números x e y e determine se eles são coprimos. Dois números são ditos
+-- 14. Crie uma função que receba dois números x e y e determine se eles são coprimos. Dois números são ditos
 -- coprimos se o máximo divisor comum entre eles ́e 1. Leia x e y do teclado.
 
 main = do

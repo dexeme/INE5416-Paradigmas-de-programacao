@@ -1,7 +1,7 @@
 -- Aluno: Tiago Siqueira
 -- Matricula: 22102193
 
--- Crie uma função que receba três números x, y e z e retorne o máximo divisor comum (DICA: apenas
+-- 12. Crie uma função que receba três números x, y e z e retorne o máximo divisor comum (DICA: apenas
 -- modifique o algoritmo anterior). Leia x, y e z do teclado.
 
 main = do

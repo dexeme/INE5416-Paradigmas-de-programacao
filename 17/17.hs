@@ -1,7 +1,7 @@
 -- Aluno: Tiago Siqueira
 -- Matricula: 22102193
 
--- Crie uma função que receba um número n e retorne se o mesmo é primo. Leia n do teclado.
+-- 17. Crie uma função que receba um número n e retorne se o mesmo é primo. Leia n do teclado.
 
 main = do
     putStrLn "Digite um número: "

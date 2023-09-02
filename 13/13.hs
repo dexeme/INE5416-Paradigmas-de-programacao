@@ -1,7 +1,7 @@
 -- Aluno: Tiago Siqueira
 -- Matricula: 22102193
 
--- Crie uma função que receba dois números x e y e retorne o mínimo múltiplo comum (DICA: use a função
+-- 13. Crie uma função que receba dois números x e y e retorne o mínimo múltiplo comum (DICA: use a função
 -- do máximo divisor comum já criada). Leia x e y do teclado.
 
 main = do

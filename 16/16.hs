@@ -1,7 +1,7 @@
 -- Aluno: Tiago Siqueira
 -- Matricula: 22102193
 
--- Crie uma função que receba dois números x e y e retorne se x  ́é divisível por y. Leia x e y do teclado.
+-- 16. Crie uma função que receba dois números x e y e retorne se x  ́é divisível por y. Leia x e y do teclado.
 
 main = do
     putStrLn "Digite o valor de x: "
